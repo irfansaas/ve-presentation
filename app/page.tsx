@@ -127,7 +127,7 @@ const VELaunchPresentation = () => {
       items: [
         { name: 'Reverse Timeline Calculator', status: 'MVP LIVE', impact: 'Eliminate risks' },
         { name: 'TCO Analysis Tool', status: 'Q4 Beta', impact: 'Creates impact conversations' },
-        { name: 'RDS-To-AVD Migration Tool', status: 'Q4 Beta', impact: 'Quantify the move to AVD' }
+        { name: 'RDS SPLA licensing to AVD', status: 'Q4 Beta', impact: 'Quantify the move to AVD' }
       ]
     },
     {
